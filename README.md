@@ -8,4 +8,4 @@
 <li><a href="https://youtu.be/jBafh8x9gI0?list=PLGka8GN2lVvEeMnqkwPZDx-Ffw3O-OtoQ" target="_blank" alt="Explanation">Knock detection code review</a></li>
 </ol>
 <h2>Upgrades</h2>
-<p class="upgrades">I may make the whole design a bit more compact and sleek in the future.</p>
+<p class="upgrades">In the future I might re design it to make it more compact and sleek in the future.</p>
