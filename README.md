@@ -9,3 +9,4 @@
 </ol>
 <h2>Upgrades</h2>
 <p class="upgrades">In the future I might re design it to make it more compact and sleek in the future.</p>
+<div class="summary" data-summary-type = "A smart assistant"></div>
