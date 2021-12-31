@@ -9,4 +9,4 @@
 </ol>
 <h2>Upgrades</h2>
 <p class="upgrades">In the future I might re design it to make it more compact and sleek in the future.</p>
-<div class="summary" data-summary-type = "A smart lock"></div>
+<div class="summary" data-summary-type = "A smart lock" data-image = https://i.pinimg.com/originals/9c/49/04/9c4904c7730fde517a3d2fba6641ff0c.gif></div>
